@@ -1,70 +1,83 @@
 {
   "images" : [
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "gather_logo_180x135.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x45"
     },
     {
+      "filename" : "gather_logo_180x135 1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x45"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 10.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 9.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "67x50"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 8.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "74x55"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 2.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 3.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "2x",
       "size" : "27x20"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 6.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "3x",
       "size" : "27x20"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 4.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "2x",
       "size" : "32x24"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 5.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "3x",
       "size" : "32x24"
     },
     {
+      "filename" : "A_flat_digital_vector_graphic_icon_features_a_purp 7.png",
       "idiom" : "ios-marketing",
       "platform" : "ios",
       "scale" : "1x",
