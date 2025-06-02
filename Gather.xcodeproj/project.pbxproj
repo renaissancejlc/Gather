@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C2A42E152DED3AD000247407 /* Gather MessagesExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = C2A42E142DED3AD000247407 /* Gather MessagesExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		C2A42E1A2DED3AD000247407 /* Messages.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2A42E192DED3AD000247407 /* Messages.framework */; };
+		C2A42E3A2DED464400247407 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C2A42E392DED464000247407 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,7 @@
 		C2A42E0B2DED3ACF00247407 /* Gather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2A42E142DED3AD000247407 /* Gather MessagesExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Gather MessagesExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2A42E192DED3AD000247407 /* Messages.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Messages.framework; path = System/Library/Frameworks/Messages.framework; sourceTree = SDKROOT; };
+		C2A42E392DED464000247407 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -86,6 +88,7 @@
 				C2A42E1B2DED3AD000247407 /* Gather MessagesExtension */,
 				C2A42E182DED3AD000247407 /* Frameworks */,
 				C2A42E0C2DED3ACF00247407 /* Products */,
+				C2A42E392DED464000247407 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -213,6 +216,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2A42E3A2DED464400247407 /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,6 +237,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PVGJFDCA5J;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Gather MessagesExtension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = Gather;
@@ -258,6 +263,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PVGJFDCA5J;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Gather MessagesExtension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = Gather;
@@ -402,6 +408,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PVGJFDCA5J;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -421,6 +428,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PVGJFDCA5J;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";

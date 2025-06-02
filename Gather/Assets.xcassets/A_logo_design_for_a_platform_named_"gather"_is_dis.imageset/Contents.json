@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "A_logo_design_for_a_platform_named_\"gather\"_is_dis.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
