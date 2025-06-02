@@ -123,20 +123,6 @@ Gather is inspired by the small frictions we experience daily in group chats— 
 
 ---
 
-## 📸 Screenshots
-
-Want a peek at what Gather looks like in action? Here’s what to expect:
-
-- Poll creation with live preview
-- Bar chart results embedded directly in iMessage threads
-- Light and dark mode visual styling
-- Seamless tap-to-vote cards
-
-
-*Screenshots coming soon!*
-
----
-
 ## 🗓️ Launch Timeline
 
 We’re aiming to ship Gather to the App Store in **July 2025**.
@@ -148,13 +134,32 @@ Stay tuned for beta access and early demos!
 
 Renaissance Carr — 2025
 Built with Swift, UIKit, and a lot of group text frustration.
-![IMG_2502](https://github.com/user-attachments/assets/82ee019e-27a5-4cc8-913f-67a90618ddb8)
-![IMG_2503](https://github.com/user-attachments/assets/260bf7c7-ed53-4fa1-9430-0fa6456c2a7f)
-![IMG_2504](https://github.com/user-attachments/assets/18a1900e-add8-42b1-8ef1-5e0b1260aa9a)
-![IMG_2505](https://github.com/user-attachments/assets/6dcaab3f-666f-4
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                ## 📸 Screenshots
 
-https://github.com/user-attachments/assets/688a63a7-0e8d-4ee5-a13d-8ebfb0bc076b
+                                                                Want a peek at what Gather looks like in action? Here’s what to expect:
 
-872-9540-3ddf55b2ae84)
-![IMG_2506](https://github.com/user-attachments/assets/b10e2a5d-725a-4df6-ba15-22739e2f462b)
-![IMG_2507](https://github.com/user-attachments/assets/690b0ee3-f8ab-4999-ab01-5477a81ddbf4)
+                                                                - Poll creation with live preview
+                                                                - Bar chart results embedded directly in iMessage threads
+                                                                - Light and dark mode visual styling
+                                                                - Seamless tap-to-vote cards
+
+
+                                                                *Screenshots coming soon!*
+
+                                                                ---
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="https://github.com/user-attachments/assets/82ee019e-27a5-4cc8-913f-67a90618ddb8" width="200" />
+  <img src="https://github.com/user-attachments/assets/260bf7c7-ed53-4fa1-9430-0fa6456c2a7f" width="200" />
+  <img src="https://github.com/user-attachments/assets/18a1900e-add8-42b1-8ef1-5e0b1260aa9a" width="200" />
+  <img src="https://github.com/user-attachments/assets/6dcaab3f-666f-4872-9540-3ddf55b2ae84" width="200" />
+  <img src="https://github.com/user-attachments/assets/b10e2a5d-725a-4df6-ba15-22739e2f462b" width="200" />
+  <img src="https://github.com/user-attachments/assets/690b0ee3-f8ab-4999-ab01-5477a81ddbf4" width="200" />
+
+</div>
