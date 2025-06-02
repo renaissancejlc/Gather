@@ -88,3 +88,62 @@ Gather embeds rich interactive cards in iMessage threads for:
 ---
 
 ## 📁 Folder Structure
+
+```
+📁 Gather/
+├── 📦 MessagesExtension/
+│   ├── 🎨 Views/                  # UIKit views and layout logic for message bubbles
+│   ├── 📡 Messaging/              # MSMessage creation, encoding, decoding logic
+│   ├── 🧠 Models/                 # Codable structs like Poll, PollOption
+│   ├── 🛠️ Controllers/           # View controllers for composing and handling polls
+│   ├── 🧪 Testing/                # Test helpers and sample polls
+│   └── Assets.xcassets/          # App icons, bubble backgrounds, brand visuals
+├── 📲 Gather (Host App)/
+│   ├── AppDelegate.swift         # Standard app delegate
+│   ├── Assets.xcassets/          # Icon and brand assets for the host app
+│   └── LaunchScreen.storyboard   # Blank screen for launching the iMessage extension
+└── 📄 README.md                  # You're here!
+```
+
+---
+
+## 🧠 Key Design Decisions
+
+- All messages are ephemeral: we use the iMessage bubble itself as the single source of truth for state.
+- Poll data is embedded in the URL, eliminating the need for a backend.
+- Layouts are adaptive, theme-aware (dark/light), and aligned with Apple's HIG.
+- We avoid push notifications or background services in v1 to keep the app extension lightweight and performant.
+
+---
+
+## 💡 Inspiration
+
+
+Gather is inspired by the small frictions we experience daily in group chats— indecision, forgotten plans, too many texts with no resolution. We designed Gather to bring structure without killing spontaneity.
+
+---
+
+## 📸 Screenshots
+
+Want a peek at what Gather looks like in action? Here’s what to expect:
+
+- Poll creation with live preview
+- Bar chart results embedded directly in iMessage threads
+- Light and dark mode visual styling
+- Seamless tap-to-vote cards
+
+*Screenshots coming soon!*
+
+---
+
+## 🗓️ Launch Timeline
+
+We’re aiming to ship Gather to the App Store in **July 2025**.
+Stay tuned for beta access and early demos!
+
+---
+
+## 👥 Made By
+
+Renaissance Carr — 2025
+Built with Swift, UIKit, and a lot of group text frustration.
