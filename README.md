@@ -134,25 +134,11 @@ Stay tuned for beta access and early demos!
 
 Renaissance Carr — 2025
 Built with Swift, UIKit, and a lot of group text frustration.
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                ## 📸 Screenshots
 
-                                                                Want a peek at what Gather looks like in action? Here’s what to expect:
+## 📸 Screenshots
 
-                                                                - Poll creation with live preview
-                                                                - Bar chart results embedded directly in iMessage threads
-                                                                - Light and dark mode visual styling
-                                                                - Seamless tap-to-vote cards
+Here’s what Gather looks like in action:
 
-
-                                                                *Screenshots coming soon!*
-
-                                                                ---
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <img src="https://github.com/user-attachments/assets/82ee019e-27a5-4cc8-913f-67a90618ddb8" width="200" />
